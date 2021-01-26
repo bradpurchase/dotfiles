@@ -1,0 +1,1 @@
+export FASTLANE_APPLE_APPLICATION_SPECIFIC_PASSWORD="vzur-tpej-hdla-nwvu"
