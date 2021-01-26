@@ -1,5 +1,4 @@
 # taps
-tap "heroku/brew"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
@@ -8,14 +7,8 @@ tap "homebrew/services"
 
 # brews
 brew "doctl"
-brew "glib"
 brew "go"
-brew "gobject-introspection"
-brew "graphviz"
-brew "harfbuzz"
-brew "heroku/brew/heroku"
 brew "mas"
-brew "pango"
 brew "postgresql", restart_service: true
 brew "postgresql@12"
 brew "python@3.8", link: true
