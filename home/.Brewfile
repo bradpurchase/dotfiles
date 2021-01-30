@@ -32,6 +32,7 @@ cask "sf-symbols"
 cask "spotify"
 cask "steam"
 cask "tableplus"
+cask "transmit"
 cask "visual-studio-code"
 cask "zoom"
 
