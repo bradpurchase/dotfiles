@@ -41,5 +41,6 @@ mas "1Password", id: 443987910
 mas "Fantastical", id: 975937182
 mas "Paste", id: 967805235
 mas "Slack", id: 803453959
+mas "Spark", id: 1176895641
 mas "Twitter", id: 1482454543
 mas "Xcode", id: 497799835
