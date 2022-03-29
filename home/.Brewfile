@@ -21,7 +21,6 @@ brew "starship"
 #brew "swiftlint"
 
 # casks
-cask "chrome"
 cask "discord"
 cask "docker"
 cask "firefox"
