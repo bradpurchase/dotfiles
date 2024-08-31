@@ -16,6 +16,7 @@ brew "starship"
 # casks
 cask "arc"
 cask "discord"
+cask "displaylink"
 cask "docker"
 cask "firefox"
 cask "font-fantasque-sans-mono"
